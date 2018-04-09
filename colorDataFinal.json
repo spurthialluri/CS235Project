@@ -1,0 +1,557 @@
+{
+
+  "spcolors": [
+    {
+      "Spell": "Protego",
+      "Colors": "#66C2FF",
+      "Column": 1,
+      "Position": 30
+    },
+    {
+      "Spell": "Expecto Patronum",
+      "Colors": "#007ACC",
+      "Column": 1,
+      "Position": 60
+    },
+    {
+      "Spell": "Scruge",
+      "Colors": "#400080",
+      "Column": 1,
+      "Position": 90
+    },
+    {
+      "Spell": "Expelliarmus",
+      "Colors": "#CC99FF",
+      "Column": 1,
+      "Position": 120
+    },
+    {
+      "Spell": "Engorgio",
+      "Colors": "#990099",
+      "Column": 1,
+      "Position": 150
+    },
+    {
+      "Spell": "Obliviate",
+      "Colors": "#FF66FF",
+      "Column": 1,
+      "Position": 180
+    },
+    {
+      "Spell": "Fidelius",
+      "Colors": "#E6AC00",
+      "Column": 1,
+      "Position": 210
+    },
+    {
+      "Spell": "Homorphus",
+      "Colors": "#990000",
+      "Column": 1,
+      "Position": 240
+    },
+    {
+      "Spell": "Impervius",
+      "Colors": "#CCFFFF",
+      "Column": 1,
+      "Position": 270
+    },
+    {
+      "Spell": "Wingardium Leviosa",
+      "Colors": "#FF6600",
+      "Column": 1,
+      "Position": 300
+    },
+    {
+      "Spell": "Mobiliarbus",
+      "Colors": "#803300",
+      "Column": 1,
+      "Position": 330
+    },
+    {
+      "Spell": "Alohomora",
+      "Colors": "#4DFF4D",
+      "Column": 1,
+      "Position": 360
+    },
+    {
+      "Spell": "Immobulus",
+      "Colors": "#004D99",
+      "Column": 1,
+      "Position": 390
+    },
+    {
+      "Spell": "Aguamenti",
+      "Colors": "#99FFFF",
+      "Column": 1,
+      "Position": 420
+    },
+    {
+      "Spell": "Impedimenta",
+      "Colors": "#bdfce6",
+      "Column": 2,
+      "Position": 30
+    },
+    {
+      "Spell": "Accio",
+      "Colors": "#8950e1",
+      "Column": 2,
+      "Position": 60
+    },
+    {
+      "Spell": "Eat Slugs",
+      "Colors": "#b5b197",
+      "Column": 2,
+      "Position": 90
+    },
+    {
+      "Spell": "Rictusempra",
+      "Colors": "#b5fc5f",
+      "Column": 2,
+      "Position": 120
+    },
+    {
+      "Spell": "Avifors",
+      "Colors": "#5bd512",
+      "Column": 2,
+      "Position": 150
+    },
+    {
+      "Spell": "Confundus",
+      "Colors": "#11fdde",
+      "Column": 2,
+      "Position": 180
+    },
+    {
+      "Spell": "Point Me",
+      "Colors": "#cf67d7",
+      "Column": 2,
+      "Position": 210
+    },
+    {
+      "Spell": "Imperio",
+      "Colors": "#af2876",
+      "Column": 2,
+      "Position": 240
+    },
+    {
+      "Spell": "Conjunctivitis",
+      "Colors": "#801a9a",
+      "Column": 2,
+      "Position": 270
+    },
+    {
+      "Spell": "Confringo",
+      "Colors": "#a790d9",
+      "Column": 2,
+      "Position": 300
+    },
+    {
+      "Spell": "Locomotor Mortis",
+      "Colors": "#362d93",
+      "Column": 2,
+      "Position": 330
+    },
+    {
+      "Spell": "Avada Kedavra",
+      "Colors": "#421fd3",
+      "Column": 2,
+      "Position": 360
+    },
+    {
+      "Spell": "Furnunculus",
+      "Colors": "#5c275b",
+      "Column": 2,
+      "Position": 390
+    },
+    {
+      "Spell": "Crucio",
+      "Colors": "#a82357",
+      "Column": 2,
+      "Position": 420
+    },
+    {
+      "Spell": "Flipendo",
+      "Colors": "#5ac28a",
+      "Column": 2,
+      "Position": 450
+    },
+    {
+      "Spell": "Legilimens",
+      "Colors": "#20493d",
+      "Column": 3,
+      "Position": 30
+    },
+    {
+      "Spell": "Flagrate",
+      "Colors": "#4b92b1",
+      "Column": 3,
+      "Position": 60
+    },
+    {
+      "Spell": "Sonorus",
+      "Colors": "#a203d0",
+      "Column": 3,
+      "Position": 90
+    },
+    {
+      "Spell": "Piertotum Locomotor",
+      "Colors": "#5afd67",
+      "Column": 3,
+      "Position": 120
+    },
+    {
+      "Spell": "Protego Totalum",
+      "Colors": "#c046c9",
+      "Column": 3,
+      "Position": 150
+    },
+    {
+      "Spell": "Reducto",
+      "Colors": "#72a4a9",
+      "Column": 3,
+      "Position": 180
+    },
+    {
+      "Spell": "Obscuro",
+      "Colors": "#4bd605",
+      "Column": 3,
+      "Position": 210
+    },
+    {
+      "Spell": "Petrificus Totalus",
+      "Colors": "#4bd605",
+      "Column": 3,
+      "Position": 240
+    },
+    {
+      "Spell": "Meteolojinx Recanto",
+      "Colors": "#90a041",
+      "Column": 3,
+      "Position": 270
+    },
+    {
+      "Spell": "Sectumsempra",
+      "Colors": "#dba4a8",
+      "Column": 3,
+      "Position": 300
+    },
+    {
+      "Spell": "Tergeo",
+      "Colors": "#c00494",
+      "Column": 3,
+      "Position": 330
+    },
+    {
+      "Spell": "Anapneo",
+      "Colors": "#0fb6ed",
+      "Column": 3,
+      "Position": 360
+    },
+    {
+      "Spell": "Orchideous",
+      "Colors": "#535fa6",
+      "Column": 3,
+      "Position": 390
+    },
+    {
+      "Spell": "Morsmordre",
+      "Colors": "#ee4fad",
+      "Column": 3,
+      "Position": 420
+    },
+    {
+      "Spell": "Quietus",
+      "Colors": "#46dab4",
+      "Column": 3,
+      "Position": 450
+    },
+    {
+      "Spell": "Nox",
+      "Colors": "#4cb2a5",
+      "Column": 4,
+      "Position": 30
+    },
+    {
+      "Spell": "Deletrius",
+      "Colors": "#c4b7c9",
+      "Column": 4,
+      "Position": 60
+    },
+    {
+      "Spell": "Ennervate",
+      "Colors": "#6b1910",
+      "Column": 4,
+      "Position": 90
+    },
+    {
+      "Spell": "Liberacorpus",
+      "Colors": "#d6d3eb",
+      "Column": 4,
+      "Position": 120
+    },
+    {
+      "Spell": "Ferula",
+      "Colors": "#3c7178",
+      "Column": 4,
+      "Position": 150
+    },
+    {
+      "Spell": "Lumos",
+      "Colors": "#d84625",
+      "Column": 4,
+      "Position": 180
+    },
+    {
+      "Spell": "Rennervate",
+      "Colors": "#f1bd9b",
+      "Column": 4,
+      "Position": 210
+    },
+    {
+      "Spell": "Defodio",
+      "Colors": "#fd7e05",
+      "Column": 4,
+      "Position": 240
+    },
+    {
+      "Spell": "Geminio",
+      "Colors": "#b1e764",
+      "Column": 4,
+      "Position": 270
+    },
+    {
+      "Spell": "Densaugeo",
+      "Colors": "#fed227",
+      "Column": 4,
+      "Position": 300
+    },
+    {
+      "Spell": "Erecto",
+      "Colors": "#f55ab8",
+      "Column": 4,
+      "Position": 330
+    },
+    {
+      "Spell": "Tarantallegra",
+      "Colors": "#38d8dc",
+      "Column": 4,
+      "Position": 360
+    },
+    {
+      "Spell": "Langlock",
+      "Colors": "#087088",
+      "Column": 4,
+      "Position": 390
+    },
+    {
+      "Spell": "Levicorpus",
+      "Colors": "#6fdafa",
+      "Column": 4,
+      "Position": 420
+    },
+    {
+      "Spell": "Episkey",
+      "Colors": "#e40e64",
+      "Column": 4,
+      "Position": 450
+    },
+    {
+      "Spell": "Repello Muggletum",
+      "Colors": "#f564ed",
+      "Column": 5,
+      "Position": 30
+    },
+    {
+      "Spell": "Stupefy",
+      "Colors": "#1a4a47",
+      "Column": 5,
+      "Position": 60
+    },
+    {
+      "Spell": "Avis",
+      "Colors": "#424d82",
+      "Column": 5,
+      "Position": 90
+    },
+    {
+      "Spell": "Colloportus",
+      "Colors": "#9de230",
+      "Column": 5,
+      "Position": 120
+    },
+    {
+      "Spell": "Oppugno",
+      "Colors": "#d9a3aa",
+      "Column": 5,
+      "Position": 150
+    },
+    {
+      "Spell": "Expulso",
+      "Colors": "#1a23d9",
+      "Column": 5,
+      "Position": 180
+    },
+    {
+      "Spell": "Duro",
+      "Colors": "#d9a3aa",
+      "Column": 5,
+      "Position": 210
+    },
+    {
+      "Spell": "Mobilicorpus",
+      "Colors": "#c65508",
+      "Column": 5,
+      "Position": 240
+    },
+    {
+      "Spell": "Dissendium",
+      "Colors": "#d19ad1",
+      "Column": 5,
+      "Position": 270
+    },
+    {
+      "Spell": "Pack",
+      "Colors": "#5eab12",
+      "Column": 5,
+      "Position": 300
+    },
+    {
+      "Spell": "Muffliato",
+      "Colors": "#bdc62b",
+      "Column": 5,
+      "Position": 330
+    },
+    {
+      "Spell": "Serpensortia",
+      "Colors": "#a5d55c",
+      "Column": 5,
+      "Position": 360
+    },
+    {
+      "Spell": "Salvio Hexia",
+      "Colors": "#f4dc98",
+      "Column": 5,
+      "Position": 390
+    },
+    {
+      "Spell": "Protego Horribilis",
+      "Colors": "#bc78a3",
+      "Column": 5,
+      "Position": 420
+    },
+    {
+      "Spell": "Relashio",
+      "Colors": "#740b15",
+      "Column": 5,
+      "Position": 450
+    },
+    {
+      "Spell": "Peskipiksi Pesternomi",
+      "Colors": "#29f7d6",
+      "Column": 6,
+      "Position": 30
+    },
+    {
+      "Spell": "Reparo",
+      "Colors": "#d8340e",
+      "Column": 6,
+      "Position": 60
+    },
+    {
+      "Spell": "Priori Incantatum",
+      "Colors": "#fcad35",
+      "Column": 6,
+      "Position": 90
+    },
+    {
+      "Spell": "Reducio",
+      "Colors": "#81c3ab",
+      "Column": 6,
+      "Position": 120
+    },
+    {
+      "Spell": "Prior Incantato",
+      "Colors": "#e878b9",
+      "Column": 6,
+      "Position": 150
+    },
+    {
+      "Spell": "Specialis Revelio",
+      "Colors": "#258b22",
+      "Column": 6,
+      "Position": 180
+    },
+    {
+      "Spell": "Homenum Revelio",
+      "Colors": "#b5eef5",
+      "Column": 6,
+      "Position": 210
+    },
+    {
+      "Spell": "Aparecium",
+      "Colors": "#edd1b9",
+      "Column": 6,
+      "Position": 240
+    },
+    {
+      "Spell": "Silencio",
+      "Colors": "#ccc3eb",
+      "Column": 6,
+      "Position": 270
+    },
+    {
+      "Spell": "Diffindo",
+      "Colors": "#ccc3eb",
+      "Column": 6,
+      "Position": 300
+    },
+    {
+      "Spell": "Incendio",
+      "Colors": "#415995",
+      "Column": 6,
+      "Position": 330
+    },
+    {
+      "Spell": "Finite Incantatum",
+      "Colors": "#8c260f",
+      "Column": 6,
+      "Position": 360
+    },
+    {
+      "Spell": "Cave Inimicum",
+      "Colors": "#6485f4",
+      "Column": 6,
+      "Position": 390
+    },
+    {
+      "Spell": "Incarcerous",
+      "Colors": "#885476",
+      "Column": 6,
+      "Position": 420
+    },
+    {
+      "Spell": "Glisseo",
+      "Colors": "#fc9dda",
+      "Column": 6,
+      "Position": 450
+    },
+    {
+      "Spell": "Waddiwasi",
+      "Colors": "#0fe43b",
+      "Column": 6,
+      "Position": 480
+    },
+    {
+      "Spell": "Riddikulus",
+      "Colors": "#fce929",
+      "Column": 6,
+      "Position": 510
+    },
+    {
+      "Spell": "Deprimo",
+      "Colors": "#bb5521",
+      "Column": 6,
+      "Position": 540
+    }
+  ]
+}
